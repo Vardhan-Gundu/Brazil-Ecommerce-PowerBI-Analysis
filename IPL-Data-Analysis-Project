@@ -1,0 +1,24 @@
+IPL-Data-Analysis-Project
+│
+├── dataset
+│     deliveries.csv
+│     matches.csv
+│
+├── sql
+│     create_tables.sql
+│     analysis_queries.sql
+│     views.sql
+│
+├── python
+│     data_analysis.ipynb
+│
+├── powerbi
+│     IPL_Dashboard.pbix
+│
+├── screenshots
+│     overview.png
+│     batting.png
+│     bowling.png
+│     insights.png
+│
+└── README.md
